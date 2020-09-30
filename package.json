@@ -1,0 +1,14 @@
+{
+	"dependencies": {
+		"aws-sdk": "^2.763.0"
+	},
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"name": "aws",
+	"version": "1.0.0",
+	"description": "aws instance",
+	"main": "index.js",
+	"author": "diegom0ta <motadiego98@gmail.com>",
+	"license": "MIT"
+}
